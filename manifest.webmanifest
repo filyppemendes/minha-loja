@@ -1,0 +1,10 @@
+{
+  "name": "Minha Loja",
+  "short_name": "Minha Loja",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7f5",
+  "theme_color": "#244c3b",
+  "description": "Controle de estoque, vendas e fiado."
+}
